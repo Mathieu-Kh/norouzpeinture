@@ -1,0 +1,669 @@
+{
+    "fr": {
+        "nav": {
+            "home": "Accueil",
+            "services": "Services",
+            "portfolio": "Portfolio",
+            "about": "À propos",
+            "contact": "Contact",
+            "faq": "FAQ",
+            "articles": "Articles"
+        },
+        "hero": {
+            "title": "Norouz Peinture",
+            "subtitle": "Votre spécialiste en peinture de bâtiment à Angers",
+            "description": "Plus de 15 ans d'expérience dans la peinture de bâtiment résidentiel et commercial. Qualité professionnelle garantie.",
+            "cta": "Demander un devis gratuit",
+            "whatsapp": "WhatsApp",
+            "call": "Appeler maintenant"
+        },
+        "services": {
+            "title": "Nos Services",
+            "subtitle": "Des prestations professionnelles pour tous vos besoins",
+            "interior": {
+                "title": "Peinture Intérieure",
+                "description": "Rénovation complète de vos murs et plafonds avec des gammes de couleurs modernes et durables."
+            },
+            "exterior": {
+                "title": "Peinture Extérieure",
+                "description": "Protection et embellissement de votre façade avec des peinture spéciales pour l'extérieur."
+            },
+            "decoration": {
+                "title": "Décoration",
+                "description": "Techniques de décoration murales : enduits, textures, effets décoratifs personnalisés."
+            },
+            "estimates": {
+                "title": "Devis Gratuit",
+                "description": "Évaluation précise et devis détaillé sans engagement pour tous vos projets."
+            }
+        },
+        "about": {
+            "title": "À Propos de Norouz Peinture",
+            "description": "Mathieu Khalesi, peintre professionnel depuis plus de 15 ans, met son expertise au service de vos projets à Angers et ses environs.",
+            "experience": "Années d'expérience",
+            "satisfaction": "Clients satisfaits",
+            "projects": "Projets réalisés"
+        },
+        "faq": {
+            "title": "Questions Fréquentes",
+            "subtitle": "Toutes les réponses à vos questions sur nos services de peinture",
+            "intro": "Trouvez ici les réponses aux questions les plus courantes sur nos services de peinture. Si vous ne trouvez pas la réponse à votre question, n'hésitez pas à nous contacter directement.",
+            "searchPlaceholder": "Rechercher une question...",
+            "categories": {
+                "general": "Questions générales",
+                "pricing": "Tarifs et devis",
+                "services": "Nos services",
+                "process": "Processus de travail"
+            },
+            "items": [
+                {
+                    "category": "general",
+                    "question": "Quels sont vos tarifs pour la peinture intérieure ?",
+                    "answer": "Nos tarifs varient entre 15€ et 25€ par m² selon l'état des murs, le nombre de couches nécessaires et le type de peinture. Un devis gratuit et détaillé est établi après visite sur site."
+                },
+                {
+                    "category": "general", 
+                    "question": "Combien de temps prend un chantier de peinture ?",
+                    "answer": "La durée dépend de la surface et de la complexité des travaux. Pour un appartement de 60m² : 3-5 jours. Pour une maison : 1-2 semaines. Nous vous donnons un planning précis lors du devis."
+                },
+                {
+                    "category": "general",
+                    "question": "Travaillez-vous le week-end ?",
+                    "answer": "Oui, nous proposons des interventions en soirée et week-end selon vos besoins. Ces créneaux peuvent faire l'objet d'un supplément, précisé lors du devis."
+                },
+                {
+                    "category": "pricing",
+                    "question": "Le devis est-il vraiment gratuit ?",
+                    "answer": "Absolument ! Notre devis est entièrement gratuit et sans engagement. Il comprend l'évaluation précise des surfaces, la liste des travaux à réaliser et le planning détaillé."
+                },
+                {
+                    "category": "pricing",
+                    "question": "Quels sont vos moyens de paiement ?",
+                    "answer": "Nous acceptons les paiements en espèces, chèques, virements bancaires et carte bancaire. Nous proposons également un paiement en plusieurs fois selon le montant du chantier."
+                },
+                {
+                    "category": "pricing",
+                    "question": "Proposez-vous une garantie ?",
+                    "answer": "Oui, tous nos travaux sont garantis 2 ans. Cette garantie couvre les défauts de pose et la tenue de la peinture dans des conditions normales d'usage."
+                },
+                {
+                    "category": "services",
+                    "question": "Préparez-vous les murs avant de peindre ?",
+                    "answer": "Oui, la préparation est incluse dans notre service : ponçage, rebouchage des trous, application d'enduit si nécessaire, et lessivage des anciennes finitions."
+                },
+                {
+                    "category": "services",
+                    "question": "Fournissez-vous la peinture ?",
+                    "answer": "Nous travaillons avec toutes les marques de peinture. Nous pouvons fournir la peinture au tarif négocié ou vous utiliser votre propre peinture selon vos préférences."
+                },
+                {
+                    "category": "services",
+                    "question": "Vous occupez-vous du déplacement des meubles ?",
+                    "answer": "Nous vous aidons à déplacer les petits meubles et objets. Pour les gros meubles lourds, nous couvrons et protégeons avec soin autour de chaque élément."
+                },
+                {
+                    "category": "process",
+                    "question": "Comment se déroule votre intervention ?",
+                    "answer": "1. Devis gratuit après visite\n2. Planification du chantier\n3. Préparation des surfaces\n4. Application des couches de peinture\n5. Finitions et nettoyage\n6. Réception du chantier"
+                },
+                {
+                    "category": "process",
+                    "question": "Puis-je visiter un chantier en cours ?",
+                    "answer": "Bien sûr ! Nous organisons régulièrement des visites de nos chantiers en cours pour nos futurs clients. Cela vous permet de voir notre savoir-faire et la qualité de notre travail."
+                },
+                {
+                    "category": "process",
+                    "question": "Que se passe-t-il en cas de mauvais temps pour la peinture extérieure ?",
+                    "answer": "Nous surveillons la météo et n'appliquons la peinture extérieure que par temps sec (minimum 5°C et moins de 70% d'humidité). En cas d'intempéries, nous reportons l'intervention."
+                },
+                {
+                    "category": "general",
+                    "question": "Travaillez-vous pour les particuliers et les professionnels ?",
+                    "answer": "Nous intervenons aussi bien chez les particuliers (appartements, maisons) que chez les professionnels (bureaux, commerces, locaux industriels). Chaque projet est adapté à ses spécificités."
+                },
+                {
+                    "category": "general",
+                    "question": "Êtes-vous assurés ?",
+                    "answer": "Oui, nous sommes entièrement assurés (RC Pro et garantie décennale). En cas de problème, vous êtes couverts. Nous pouvons vous fournir une attestation d'assurance sur simple demande."
+                }
+            ]
+        },
+        "articles": {
+            "title": "Conseils et Actualités",
+            "subtitle": "Découvrez nos guides pour bien choisir vos couleurs et entretenir votre peinture",
+            "intro": "Nos experts partagent leurs conseils et savoir-faire pour vous accompagner dans vos projets de peinture. Retrouvez toutes nos actualités et recommandations personnalisées.",
+            "categories": {
+                "guides": "Guides pratiques",
+                "conseils": "Conseils d'experts",
+                "tendances": "Tendances couleurs",
+                "maintenance": "Entretien"
+            },
+            "searchPlaceholder": "Rechercher un article...",
+            "readMore": "Lire la suite",
+            "by": "Par",
+            "on": "Le",
+            "minRead": "min de lecture",
+            "featured": "À la une",
+            "latest": "Derniers articles",
+            "noResults": "Aucun article trouvé",
+            "items": [
+                {
+                    "category": "guides",
+                    "slug": "guide-choisir-couleur-maison",
+                    "title": "Comment choisir la bonne couleur pour votre maison ?",
+                    "excerpt": "Un guide complet pour sélectionner les couleurs parfaites selon l'ambiance souhaitée, la luminosité et l'usage de chaque pièce.",
+                    "content": "Le choix des couleurs est une décision importante qui influence l'atmosphère et le bien-être dans votre foyer. Voici nos conseils d'expert pour faire le bon choix.\n\n## 1. Analyser la luminosité\n\nAvant de choisir une couleur, observez l'orientation de la pièce et sa luminosité naturelle :\n- **Nord** : Privilégiez les couleurs chaudes (beige, jaune pâle, orange doux)\n- **Sud** : Vous pouvez opter pour des couleurs plus froides (bleu, vert, violet)\n- **Est/Ouest** : Les couleurs neutres s'adaptent bien\n\n## 2. Définir l'ambiance souhaitée\n\nChaque couleur evoke des émotions différentes :\n- **Couleurs chaudes** : Crée une ambiance conviviale et énergisante\n- **Couleurs froides** : Apporte sérénité et calme\n- **Couleurs neutres** : Garantit un équilibre parfait\n\n## 3. Respecter les proportions\n\nPour une harmonie visuelle :\n- 60% couleurs principales (murs principaux)\n- 30% couleurs secondaires (murs d'accent)\n- 10% couleurs d'accompagnement (décoration)\n\n## 4. Tester avant de décider\n\nToujours tester les couleurs sur un échantillons avant de pintura entière.\n\nContactez-nous pour un accompagnement personnalisé !",
+                    "author": "Mathieu Khalesi",
+                    "date": "2024-11-15",
+                    "readTime": 5,
+                    "tags": ["couleurs", "guide", "intérieur", "conseil"]
+                },
+                {
+                    "category": "guides",
+                    "slug": "types-peinture-batiment",
+                    "title": "Les différents types de peinture pour bâtiment",
+                    "excerpt": "Découvrez les caractéristiques de chaque type de peinture et leurs applications spécifiques pour vos projets de peinture.",
+                    "content": "Le choix du type de peinture est essentiel pour garantir la durabilité et l'esthétique de vos travaux. Voici notre guide complet.\n\n## Peinture acrylique\n\n**Avantages :**\n- Séchage rapide (2-4h)\n- Faible odeur\n- Lavable\n- Respectueuse de l'environnement\n\n**Utilisation :** Intérieur, murs et plafonds\n\n## Peinture glycéro\n\n**Avantages :**\n- Résistance élevée\n- Couverture excellente\n- Finition parfaite\n\n**Utilisation :** Cuisines, salles de bain, surfaces exigeantes\n\n## Peinture spécialisée extérieure\n\n**Avantages :**\n- Résistance UV\n- Imperméabilité\n- Résistance aux intempéries\n\n**Utilisation :** Façades, boiseries extérieures\n\n## Enduit décoratif\n\n**Avantages :**\n- Effet décoratif unique\n-masse et texture\n- Personnalisation complète\n\n**Utilisation :** Murs d'accent, décoration intérieure\n\n## Notre recommandation\n\nPour un projet optimal, consultez nos experts pour définir la peinture la plus adaptée à vos besoins.\n\nAppelez-nous au +33 6 68 66 43 91",
+                    "author": "Mathieu Khalesi",
+                    "date": "2024-11-10",
+                    "readTime": 6,
+                    "tags": ["peinture", "types", "guide", "technique"]
+                },
+                {
+                    "category": "maintenance",
+                    "slug": "entretenir-peinture-longtemps",
+                    "title": "Comment entretenir votre peinture pour qu'elle dure longtemps ?",
+                    "excerpt": "Les gestes simples pour préserver l'éclat et la durabilité de votre peinture dans le temps.",
+                    "content": "Un bon entretien peut considérablement prolonger la durée de vie de votre peinture. Voici nos conseils d'expert.\n\n## Nettoyage régulier\n\n### Poussière et salissures\n- Dépoussiérer avec un plumeau doux\n- Nettoyer avec un chiffon légèrement humide\n- Éviter les produits abrasifs\n\n### Taches tenaces\n- Agir rapidement\n- Utiliser du savon doux\n- Rincer à l'eau claire\n- Sécher immédiatement\n\n## Contrôle périodique\n\n### Inspection mensuelle\n- Vérifier les fissures\n- Observer les changements de couleur\n- Contrôler l'adhérence\n\n### Intervention préventive\n- Reboucher les petits défauts\n- Retoucher les zones usées\n- Protéger des chocs\n\n## Facteurs d'usure\n\n### Humidité\n- Ventiler régulièrement\n- Réparer les fuites\n- Utiliser des peinture adaptées\n\n### Lumière\n- Protéger des UV directs\n- Choisir des couleurs stables\n\n### Usage intensif\n- Prévoir des finitions lavables\n- Protéger les zones de passage\n\n## Quand rénover ?\n\n- Perte d'éclat significative\n- Défauts de surface\n- Changement de style\n- Plus de 10 ans\n\n## Notre service\n\nPour un entretien professionnel, contactez-nous :\n- Devis gratuit\n- Expertise reconnue\n- Garantie 2 ans\n\nTéléphone : +33 6 68 66 43 91",
+                    "author": "Mathieu Khalesi",
+                    "date": "2024-11-05",
+                    "readTime": 4,
+                    "tags": ["entretien", "durabilité", "conseil", "maintenance"]
+                },
+                {
+                    "category": "conseils",
+                    "slug": "pourquoi-choisir-peintre-professionnel",
+                    "title": "Pourquoi faire appel à un peintre professionnel ?",
+                    "excerpt": "Les avantages de recourir à un expert pour vos travaux de peinture et les risques du bricolage mal maîtrisé.",
+                    "content": "La peinture peut sembler simple, mais un résultat professionnel nécessite expertise, matériel et technique. Voici pourquoi faire appel à un spécialiste.\n\n## Expertise technique\n\n### Connaissance des matériaux\n- Types de supports et préparation\n- Choix des peintures appropriées\n- Techniques d'application\n\n### Résolution des problèmes\n- Diagnostic des défauts\n- Solutions adaptées\n- Prévention des erreurs\n\n## Qualité du résultat\n\n### Finition parfaite\n- Lissage impeccable\n- Couleurs uniformes\n- Chants nets\n\n### Durabilité garantie\n- Préparation optimale\n- Produits de qualité\n- Application correcte\n\n### Esthétique professionnelle\n- Conseil en couleurs\n- Harmonisation\n- Décoration coordonnée\n\n## Gain de temps\n\n### Préparation complète\n- Protection des surfaces\n- Préparation des supports\n- Nettoyage\n\n### Application rapide\n- Matériel professionnel\n- Équipe expérimentée\n- Méthodes optimisées\n\n## Sécurité\n\n### Matériel adapté\n- Échafaudages sécurisés\n- Protection individuelle\n- Assurances\n\n### Réglementation\n- Normes en vigueur\n- Codes du travail\n- Responsabilité civile\n\n## Garanties\n\n### Assurance décennale\n- Protection 10 ans\n- Défauts de construction\n\n### Garantie travaux\n- 2 ans de garantie\n- Finitions et pose\n- Service après-vente\n\n## Économies à long terme\n\n### Éviter les reprises\n- Première fois, la bonne\n- Pas de rattrapage coûteux\n\n### Durabilité\n- Meilleure résistance\n- Entretien facilité\n\n## Notre engagement\n\nPlus de 15 ans d'expérience à votre service :\n- Devis gratuit et détaillé\n- Respect des délais\n- Garantie 2 ans\n- Service après-vente\n\nTéléphone : +33 6 68 66 43 91",
+                    "author": "Mathieu Khalesi",
+                    "date": "2024-11-01",
+                    "readTime": 7,
+                    "tags": ["professionnel", "expertise", "qualité", "garantie"]
+                },
+                {
+                    "category": "tendances",
+                    "slug": "tendances-couleurs-2024",
+                    "title": "Les tendances couleurs 2024 pour votre intérieur",
+                    "excerpt": "Découvrez les couleurs tendance de 2024 et comment les intégrer dans votre décoration pour un intérieur moderne et harmonieux.",
+                    "content": "2024 marque le retour aux sources avec des couleurs naturelles et apaisantes. Découvrez les tendances qui marqueront cette année.\n\n## Couleurs tendances 2024\n\n### 1. Terracotta et tons terre\n\n**Pourquoi c'est tendance :**\n- Retour à la nature\n- Chaleur et confort\n- Intemporalité\n\n**Application idéale :**\n- Salon et salle à manger\n- Murs d'accent\n- Couleurs d'accompagnement\n\n### 2. Vert sauge et eucalyptus\n\n**Caractéristiques :**\n- Apaisant et rafraîchissant\n- Se mariant avec toutes les couleurs\n- Grande polyvalence\n\n**Utilisation recommandée :**\n- Chambres à coucher\n- Bureau à domicile\n- Cuisines modernes\n\n### 3. Bleu denim et bleu pâle\n\n**Avantages :**\n- Intemporalité\n- Sérénité et calme\n- Facilité de搭配\n\n**Espaces privilégiés :**\n- Salle de bain\n- Chambre d'enfant\n- Bureau\n\n### 4. Crème et beige chaud\n\n**Points forts :**\n- Élégance et sophistication\n- Agrandissent l'espace\n- Facilitent la décoration\n\n**Application :**\n- Tous les espaces\n- Couleur principale\n- Base pour autres couleurs\n\n## Les finishes qui montent\n\n### Mat satiné\n- Modernité et raffinement\n- Finition intermédiaire\n- Entretien facile\n\n### Texture lisse\n- Minimalisme et contemporain\n- Finesse et précision\n- Mise en valeur des couleurs\n\n## Comment intégrer ces tendances\n\n### Équilibre et harmonie\n- Une couleur dominante (60%)\n- Une couleur d'accent (30%)\n- Des couleurs neutres (10%)\n\n### Adaptation à votre style\n- Moderne : terracotta + bleu pâle\n- Scandinave : vert sauge + crème\n- Industriel : beige + bleu denim\n\n### Tests et échantillons\n- Toujours tester avant\n- Observer à différents moments\n- Considérer la luminosité\n\n## Notre accompagnement\n\nPour intégrer ces tendances chez vous :\n- Conseil couleur gratuit\n- Devis personnalisé\n- Application professionnelle\n\nContactez-nous au +33 6 68 66 43 91",
+                    "author": "Mathieu Khalesi",
+                    "date": "2024-10-28",
+                    "readTime": 6,
+                    "tags": ["tendances", "couleurs", "2024", "décoration"]
+                },
+                {
+                    "category": "guides",
+                    "slug": "processus-peinture-etapes",
+                    "title": "Le processus de peinture : de la préparation à la finition",
+                    "excerpt": "Découvrez étape par étape comment se déroule un chantier de peinture professionnel pour mieux comprendre notre approche.",
+                    "content": "Un chantier de peinture professionnel suit un processus précis pour garantir un résultat optimal. Voici les étapes de notre méthode.\n\n## Phase 1 : Préparation (J1)\n\n### Évaluation et diagnostic\n- Inspection des surfaces\n- Identification des défauts\n- Planification détaillée\n- Choix des matériaux\n\n### Protection et préparation\n- Protection des meubles et sols\n- Dégagement des zones de travail\n- Préparation des outils\n- Vérification du matériel\n\n## Phase 2 : Préparation des supports (J1-J2)\n\n### Nettoyage\n- Dépoussiérage complet\n- Nettoyage si nécessaire\n- Séchage complet\n\n### Réparations\n- Rebouchage des trous\n- Réparation des fissures\n- Ponçage si nécessaire\n- Application d'enduit\n\n### Ponçage et lissage\n- Ponçage des anciennes finitions\n- Lissage des surfaces\n- Égrenage final\n\n## Phase 3 : Impression (J2)\n\n### Préparation\n- Mélange de l'impression\n- Application en couche fine\n- Temps de séchage respecté\n\n### Contrôle\n- Vérification de la couverture\n- Traitement des zones manquantes\n- Préparation pour la peinture\n\n## Phase 4 : Peinture (J3-J4)\n\n### Première couche\n- Application régulière\n- Respect des zones\n- Temps de séchage (4-6h)\n\n### Deuxième couche\n- Contrôle de la première couche\n- Application uniforme\n- Finitions soignées\n\n### Finitions particulières\n- Chants et angles\n- Zones de難 access\n- Détails\n\n## Phase 5 : Réception (J4)\n\n### Contrôle qualité\n- Inspection complète\n- Vérification des défauts\n- Retouches si nécessaire\n\n### Nettoyage\n- Nettoyage des outils\n- Ranger du matériel\n- Protection finale\n\n### Réception client\n- Présentation du travail\n- Explication des choix\n- Conseils d'entretien\n\n## Nos engagements qualité\n\n### Respect des délais\n- Planning respecter\n- Communication constante\n- Flexibilité si besoin\n\n### Qualité des matériaux\n- Peintures de marque\n- Primaires adaptés\n- Outils professionnels\n\n### Garanties\n- Garantie 2 ans\n- Service après-vente\n- Retouches incluses\n\n## Contactez-nous\n\nPour un chantier professionnel :\n- Devis gratuit\n- Expertise reconnue\n- Garantie 2 ans\n\nTéléphone : +33 6 68 66 43 91",
+                    "author": "Mathieu Khalesi",
+                    "date": "2024-10-25",
+                    "readTime": 8,
+                    "tags": ["processus", "étapes", "professionnel", "méthode"]
+                }
+            ]
+        },
+        "contact": {
+            "title": "Contactez-nous",
+            "subtitle": "Un projet de peinture en tête ? Parlons-en !",
+            "name": "Nom complet",
+            "email": "Email",
+            "phone": "Téléphone",
+            "message": "Votre message",
+            "send": "Envoyer le message",
+            "address": "Adresse",
+            "hours": "Horaires",
+            "map": "Localisation"
+        }
+    },
+    "en": {
+        "nav": {
+            "home": "Home",
+            "services": "Services",
+            "portfolio": "Portfolio",
+            "about": "About",
+            "contact": "Contact",
+            "faq": "FAQ",
+            "articles": "Articles"
+        },
+        "hero": {
+            "title": "Norouz Peinture",
+            "subtitle": "Your building painting specialist in Angers",
+            "description": "Over 15 years of experience in residential and commercial building painting. Guaranteed professional quality.",
+            "cta": "Request free quote",
+            "whatsapp": "WhatsApp",
+            "call": "Call now"
+        },
+        "services": {
+            "title": "Our Services",
+            "subtitle": "Professional services for all your needs",
+            "interior": {
+                "title": "Interior Painting",
+                "description": "Complete renovation of your walls and ceilings with modern and durable color ranges."
+            },
+            "exterior": {
+                "title": "Exterior Painting",
+                "description": "Protection and beautification of your facade with special exterior paints."
+            },
+            "decoration": {
+                "title": "Decoration",
+                "description": "Wall decoration techniques: coatings, textures, personalized decorative effects."
+            },
+            "estimates": {
+                "title": "Free Quote",
+                "description": "Precise evaluation and detailed quote without commitment for all your projects."
+            }
+        },
+        "about": {
+            "title": "About Norouz Peinture",
+            "description": "Mathieu Khalesi, professional painter for over 15 years, puts his expertise at the service of your projects in Angers and surroundings.",
+            "experience": "Years of experience",
+            "satisfaction": "Satisfied clients",
+            "projects": "Projects completed"
+        },
+        "faq": {
+            "title": "Frequently Asked Questions",
+            "subtitle": "All answers to your questions about our painting services",
+            "intro": "Find here the answers to the most common questions about our painting services. If you don't find the answer to your question, don't hesitate to contact us directly.",
+            "searchPlaceholder": "Search a question...",
+            "categories": {
+                "general": "General questions",
+                "pricing": "Rates and quotes",
+                "services": "Our services",
+                "process": "Work process"
+            },
+            "items": [
+                {
+                    "category": "general",
+                    "question": "What are your rates for interior painting?",
+                    "answer": "Our rates vary between €15 and €25 per m² depending on the condition of the walls, the number of coats needed and the type of paint. A free and detailed quote is provided after an on-site visit."
+                },
+                {
+                    "category": "general", 
+                    "question": "How long does a painting project take?",
+                    "answer": "The duration depends on the surface area and complexity of the work. For a 60m² apartment: 3-5 days. For a house: 1-2 weeks. We give you a precise schedule when quoting."
+                },
+                {
+                    "category": "general",
+                    "question": "Do you work on weekends?",
+                    "answer": "Yes, we offer evening and weekend interventions according to your needs. These time slots may incur a supplement, specified during the quote."
+                },
+                {
+                    "category": "pricing",
+                    "question": "Is the quote really free?",
+                    "answer": "Absolutely! Our quote is completely free and without commitment. It includes precise surface assessment, list of work to be done and detailed schedule."
+                },
+                {
+                    "category": "pricing",
+                    "question": "What are your payment methods?",
+                    "answer": "We accept payments in cash, checks, bank transfers and bank card. We also offer payment in several installments according to the amount of the project."
+                },
+                {
+                    "category": "pricing",
+                    "question": "Do you offer a guarantee?",
+                    "answer": "Yes, all our work is guaranteed for 2 years. This guarantee covers installation defects and paint hold under normal usage conditions."
+                },
+                {
+                    "category": "services",
+                    "question": "Do you prepare the walls before painting?",
+                    "answer": "Yes, preparation is included in our service: sanding, hole filling, applying putty if necessary, and washing old finishes."
+                },
+                {
+                    "category": "services",
+                    "question": "Do you provide the paint?",
+                    "answer": "We work with all paint brands. We can provide paint at negotiated rates or you can use your own paint according to your preferences."
+                },
+                {
+                    "category": "services",
+                    "question": "Do you handle moving furniture?",
+                    "answer": "We help you move small furniture and objects. For heavy large furniture, we carefully cover and protect around each element."
+                },
+                {
+                    "category": "process",
+                    "question": "How does your intervention work?",
+                    "answer": "1. Free quote after visit\n2. Project planning\n3. Surface preparation\n4. Paint coat application\n5. Finishing and cleaning\n6. Project acceptance"
+                },
+                {
+                    "category": "process",
+                    "question": "Can I visit an ongoing project?",
+                    "answer": "Of course! We regularly organize visits to our ongoing projects for future clients. This allows you to see our expertise and the quality of our work."
+                },
+                {
+                    "category": "process",
+                    "question": "What happens in case of bad weather for exterior painting?",
+                    "answer": "We monitor the weather and only apply exterior paint in dry weather (minimum 5°C and less than 70% humidity). In case of bad weather, we postpone the intervention."
+                },
+                {
+                    "category": "general",
+                    "question": "Do you work for individuals and professionals?",
+                    "answer": "We work with individuals (apartments, houses) as well as professionals (offices, shops, industrial premises). Each project is adapted to its specificities."
+                },
+                {
+                    "category": "general",
+                    "question": "Are you insured?",
+                    "answer": "Yes, we are fully insured (Professional Liability and 10-year guarantee). In case of problem, you are covered. We can provide you with an insurance certificate upon simple request."
+                }
+            ]
+        },
+        "articles": {
+            "title": "Tips and News",
+            "subtitle": "Discover our guides to choose your colors well and maintain your paint"
+        },
+        "contact": {
+            "title": "Contact Us",
+            "subtitle": "Have a painting project in mind? Let's talk!",
+            "name": "Full name",
+            "email": "Email",
+            "phone": "Phone",
+            "message": "Your message",
+            "send": "Send message",
+            "address": "Address",
+            "hours": "Hours",
+            "map": "Location"
+        }
+    },
+    "es": {
+        "nav": {
+            "home": "Inicio",
+            "services": "Servicios",
+            "portfolio": "Portfolio",
+            "about": "Acerca de",
+            "contact": "Contacto",
+            "faq": "FAQ",
+            "articles": "Artículos"
+        },
+        "hero": {
+            "title": "Norouz Peinture",
+            "subtitle": "Su especialista en pintura de edificios en Angers",
+            "description": "Más de 15 años de experiencia en pintura de edificios residenciales y comerciales. Calidad profesional garantizada.",
+            "cta": "Solicitar presupuesto gratuito",
+            "whatsapp": "WhatsApp",
+            "call": "Llamar ahora"
+        },
+        "services": {
+            "title": "Nuestros Servicios",
+            "subtitle": "Servicios profesionales para todas sus necesidades",
+            "interior": {
+                "title": "Pintura Interior",
+                "description": "Renovación completa de sus paredes y techos con gamas de colores modernas y duraderas."
+            },
+            "exterior": {
+                "title": "Pintura Exterior",
+                "description": "Protección y embellecimiento de su fachada con pinturas especiales para exteriores."
+            },
+            "decoration": {
+                "title": "Decoración",
+                "description": "Técnicas de decoración mural: revestimientos, texturas, efectos decorativos personalizados."
+            },
+            "estimates": {
+                "title": "Presupuesto Gratuito",
+                "description": "Evaluación precisa y presupuesto detallado sin compromiso para todos sus proyectos."
+            }
+        },
+        "about": {
+            "title": "Acerca de Norouz Peinture",
+            "description": "Mathieu Khalesi, pintor profesional durante más de 15 años, pone su experiencia al servicio de sus proyectos en Angers y alrededores.",
+            "experience": "Años de experiencia",
+            "satisfaction": "Clientes satisfechos",
+            "projects": "Proyectos realizados"
+        },
+        "faq": {
+            "title": "Preguntas Frecuentes",
+            "subtitle": "Todas las respuestas a sus preguntas sobre nuestros servicios de pintura",
+            "intro": "Encuentre aquí las respuestas a las preguntas más comunes sobre nuestros servicios de pintura. Si no encuentra la respuesta a su pregunta, no dude en contactarnos directamente.",
+            "searchPlaceholder": "Buscar una pregunta...",
+            "categories": {
+                "general": "Preguntas generales",
+                "pricing": "Tarifas y presupuestos",
+                "services": "Nuestros servicios",
+                "process": "Proceso de trabajo"
+            },
+            "items": [
+                {
+                    "category": "general",
+                    "question": "¿Cuáles son sus tarifas para la pintura interior?",
+                    "answer": "Nuestras tarifas varían entre 15€ y 25€ por m² según el estado de las paredes, el número de capas necesarias y el tipo de pintura. Se elabora un presupuesto gratuito y detallado después de una visita al lugar."
+                },
+                {
+                    "category": "general", 
+                    "question": "¿Cuánto tiempo toma un proyecto de pintura?",
+                    "answer": "La duración depende del área de superficie y la complejidad del trabajo. Para un apartamento de 60m²: 3-5 días. Para una casa: 1-2 semanas. Le damos un horario preciso al presupuestar."
+                },
+                {
+                    "category": "general",
+                    "question": "¿Trabajan los fines de semana?",
+                    "answer": "Sí, ofrecemos intervenciones vespertinas y de fin de semana según sus necesidades. Estos horarios pueden tener un recargo, especificado durante el presupuesto."
+                },
+                {
+                    "category": "pricing",
+                    "question": "¿El presupuesto es realmente gratuito?",
+                    "answer": "¡Absolutamente! Nuestro presupuesto es completamente gratuito y sin compromiso. Incluye la evaluación precisa de superficies, la lista de trabajos a realizar y el horario detallado."
+                },
+                {
+                    "category": "pricing",
+                    "question": "¿Cuáles son sus métodos de pago?",
+                    "answer": "Aceptamos pagos en efectivo, cheques, transferencias bancarias y tarjeta bancaria. También ofrecemos pago en varias cuotas según el monto del proyecto."
+                },
+                {
+                    "category": "pricing",
+                    "question": "¿Ofrecen garantía?",
+                    "answer": "Sí, todo nuestro trabajo está garantizado por 2 años. Esta garantía cubre los defectos de instalación y la resistencia de la pintura en condiciones normales de uso."
+                },
+                {
+                    "category": "services",
+                    "question": "¿Preparan las paredes antes de pintar?",
+                    "answer": "Sí, la preparación está incluida en nuestro servicio: lijado, llenado de agujeros, aplicación de masilla si es necesario, y lavado de acabados antiguos."
+                },
+                {
+                    "category": "services",
+                    "question": "¿Proporcionan la pintura?",
+                    "answer": "Trabajamos con todas las marcas de pintura. Podemos proporcionar la pintura a tarifas negociadas o usted puede usar su propia pintura según sus preferencias."
+                },
+                {
+                    "category": "services",
+                    "question": "¿Se encargan de mover los muebles?",
+                    "answer": "Le ayudamos a mover muebles pequeños y objetos. Para muebles grandes y pesados, cubrimos y protegemos cuidadosamente alrededor de cada elemento."
+                },
+                {
+                    "category": "process",
+                    "question": "¿Cómo funciona su intervención?",
+                    "answer": "1. Presupuesto gratuito después de la visita\n2. Planificación del proyecto\n3. Preparación de superficies\n4. Aplicación de capas de pintura\n5. Acabados y limpieza\n6. Aceptación del proyecto"
+                },
+                {
+                    "category": "process",
+                    "question": "¿Puedo visitar un proyecto en curso?",
+                    "answer": "¡Por supuesto! Organizamos regularmente visitas a nuestros proyectos en curso para futuros clientes. Esto le permite ver nuestra experiencia y la calidad de nuestro trabajo."
+                },
+                {
+                    "category": "process",
+                    "question": "¿Qué pasa en caso de mal tiempo para la pintura exterior?",
+                    "answer": "Monitoreamos el clima y solo aplicamos pintura exterior en tiempo seco (mínimo 5°C y menos de 70% de humedad). En caso de mal tiempo, posponemos la intervención."
+                },
+                {
+                    "category": "general",
+                    "question": "¿Trabajan para particulares y profesionales?",
+                    "answer": "Trabajamos con particulares (apartamentos, casas) así como con profesionales (oficinas, comercios, locales industriales). Cada proyecto se adapta a sus especificidades."
+                },
+                {
+                    "category": "general",
+                    "question": "¿Están asegurados?",
+                    "answer": "Sí, estamos completamente asegurados (Responsabilidad Profesional y garantía de 10 años). En caso de problema, usted está cubierto. Podemos proporcionarle un certificado de seguro bajo simple solicitud."
+                }
+            ]
+        },
+        "articles": {
+            "title": "Consejos y Noticias",
+            "subtitle": "Descubra nuestras guías para elegir bien sus colores y mantener su pintura"
+        },
+        "contact": {
+            "title": "Contáctenos",
+            "subtitle": "¿Tiene un proyecto de pintura en mente? ¡Hablemos!",
+            "name": "Nombre completo",
+            "email": "Email",
+            "phone": "Teléfono",
+            "message": "Su mensaje",
+            "send": "Enviar mensaje",
+            "address": "Dirección",
+            "hours": "Horarios",
+            "map": "Ubicación"
+        }
+    },
+    "de": {
+        "nav": {
+            "home": "Startseite",
+            "services": "Services",
+            "portfolio": "Portfolio",
+            "about": "Über uns",
+            "contact": "Kontakt",
+            "faq": "FAQ",
+            "articles": "Artikel"
+        },
+        "hero": {
+            "title": "Norouz Peinture",
+            "subtitle": "Ihr Gebäudemaleister in Angers",
+            "description": "Über 15 Jahre Erfahrung im Wohn- und Gewerbebau. Garantierte professionelle Qualität.",
+            "cta": "Kostenloses Angebot anfordern",
+            "whatsapp": "WhatsApp",
+            "call": "Jetzt anrufen"
+        },
+        "services": {
+            "title": "Unsere Services",
+            "subtitle": "Professionelle Dienstleistungen für alle Ihre Bedürfnisse",
+            "interior": {
+                "title": "Innenmalerei",
+                "description": "Komplette Renovierung Ihrer Wände und Decken mit modernen und langlebigen Farbreihen."
+            },
+            "exterior": {
+                "title": "Außenmalerei",
+                "description": "Schutz und Verschönerung Ihrer Fassade mit speziellen Außenfarben."
+            },
+            "decoration": {
+                "title": "Dekoration",
+                "description": "Wanddekorationstechniken: Beschichtungen, Texturen, personalisierte dekorative Effekte."
+            },
+            "estimates": {
+                "title": "Kostenloses Angebot",
+                "description": "Präzise Bewertung und detailliertes Angebot ohne Verpflichtung für alle Ihre Projekte."
+            }
+        },
+        "about": {
+            "title": "Über Norouz Peinture",
+            "description": "Mathieu Khalesi, professioneller Maler seit über 15 Jahren, stellt seine Expertise in den Dienst Ihrer Projekte in Angers und Umgebung.",
+            "experience": "Jahre Erfahrung",
+            "satisfaction": "Zufriedene Kunden",
+            "projects": "Abgeschlossene Projekte"
+        },
+        "faq": {
+            "title": "Häufig Gestellte Fragen",
+            "subtitle": "Alle Antworten auf Ihre Fragen zu unseren Malerdienstleistungen",
+            "intro": "Finden Sie hier die Antworten auf die häufigsten Fragen zu unseren Malerdiensten. Falls Sie die Antwort auf Ihre Frage nicht finden, zögern Sie nicht, uns direkt zu kontaktieren.",
+            "searchPlaceholder": "Eine Frage suchen...",
+            "categories": {
+                "general": "Allgemeine Fragen",
+                "pricing": "Preise und Angebote",
+                "services": "Unsere Services",
+                "process": "Arbeitsprozess"
+            },
+            "items": [
+                {
+                    "category": "general",
+                    "question": "Was sind Ihre Preise für Innenmalerei?",
+                    "answer": "Unsere Preise variieren zwischen 15€ und 25€ pro m² je nach Zustand der Wände, der Anzahl der benötigten Schichten und der Art der Farbe. Ein kostenloses und detailliertes Angebot wird nach einem Vor-Ort-Besuch erstellt."
+                },
+                {
+                    "category": "general", 
+                    "question": "Wie lange dauert ein Malprojekt?",
+                    "answer": "Die Dauer hängt von der Fläche und der Komplexität der Arbeit ab. Für eine 60m² Wohnung: 3-5 Tage. Für ein Haus: 1-2 Wochen. Wir geben Ihnen einen genauen Zeitplan bei der Angebotserstellung."
+                },
+                {
+                    "category": "general",
+                    "question": "Arbeiten Sie am Wochenende?",
+                    "answer": "Ja, wir bieten Abend- und Wochenend-Einsätze nach Ihren Bedürfnissen an. Diese Zeiten können mit einem Aufpreis verbunden sein, der bei der Angebotserstellung angegeben wird."
+                },
+                {
+                    "category": "pricing",
+                    "question": "Ist das Angebot wirklich kostenlos?",
+                    "answer": "Absolut! Unser Angebot ist völlig kostenlos und unverbindlich. Es umfasst eine präzise Oberflächenbewertung, eine Liste der durchzuführenden Arbeiten und einen detaillierten Zeitplan."
+                },
+                {
+                    "category": "pricing",
+                    "question": "Was sind Ihre Zahlungsmethoden?",
+                    "answer": "Wir akzeptieren Zahlungen in bar, Schecks, Banküberweisungen und Bankkarte. Wir bieten auch Ratenzahlung je nach Projekthöhe an."
+                },
+                {
+                    "category": "pricing",
+                    "question": "Bieten Sie eine Garantie?",
+                    "answer": "Ja, all unsere Arbeiten sind für 2 Jahre garantiert. Diese Garantie deckt Installationsmängel und Farbhaltbarkeit unter normalen Nutzungsbedingungen ab."
+                },
+                {
+                    "category": "services",
+                    "question": "Bereiten Sie die Wände vor dem Streichen vor?",
+                    "answer": "Ja, die Vorbereitung ist in unserem Service enthalten: Schleifen, Löcher füllen, Kitt auftragen falls nötig und alte Oberflächen reinigen."
+                },
+                {
+                    "category": "services",
+                    "question": "Stellen Sie die Farbe zur Verfügung?",
+                    "answer": "Wir arbeiten mit allen Farbmarken zusammen. Wir können Farbe zu verhandelten Preisen liefern oder Sie können Ihre eigene Farbe nach Ihren Vorlieben verwenden."
+                },
+                {
+                    "category": "services",
+                    "question": "Kümmern Sie sich um das Bewegen von Möbeln?",
+                    "answer": "Wir helfen Ihnen beim Bewegen kleiner Möbel und Gegenstände. Für schwere große Möbel bedecken und schützen wir sorgfältig um jedes Element herum."
+                },
+                {
+                    "category": "process",
+                    "question": "Wie funktioniert Ihr Einsatz?",
+                    "answer": "1. Kostenloses Angebot nach Besuch\n2. Projektplanung\n3. Oberflächenvorbereitung\n4. Farbschichtauftrag\n5. Endbearbeitung und Reinigung\n6. Projektabnahme"
+                },
+                {
+                    "category": "process",
+                    "question": "Kann ich ein laufendes Projekt besuchen?",
+                    "answer": "Natürlich! Wir organisieren regelmäßig Besuche unserer laufenden Projekte für zukünftige Kunden. Dies ermöglicht es Ihnen, unsere Fachkenntnisse und die Qualität unserer Arbeit zu sehen."
+                },
+                {
+                    "category": "process",
+                    "question": "Was passiert bei schlechtem Wetter für Außenmalerei?",
+                    "answer": "Wir überwachen das Wetter und tragen Außenfarbe nur bei trockenem Wetter auf (mindestens 5°C und weniger als 70% Luftfeuchtigkeit). Bei schlechtem Wetter verschieben wir den Einsatz."
+                },
+                {
+                    "category": "general",
+                    "question": "Arbeiten Sie für Privatpersonen und Unternehmen?",
+                    "answer": "Wir arbeiten mit Privatpersonen (Wohnungen, Häusern) sowie Unternehmen (Büros, Geschäfte, Industrieräume). Jedes Projekt wird an seine Spezifika angepasst."
+                },
+                {
+                    "category": "general",
+                    "question": "Sind Sie versichert?",
+                    "answer": "Ja, wir sind vollständig versichert (Berufshaftpflicht und 10-Jahres-Garantie). Im Problemfall sind Sie abgesichert. Wir können Ihnen auf einfache Anfrage eine Versicherungsbescheinigung zur Verfügung stellen."
+                }
+            ]
+        },
+        "articles": {
+            "title": "Tipps und Neuigkeiten",
+            "subtitle": "Entdecken Sie unsere Leitfäden für die richtige Farbwahl und Farbwartung"
+        },
+        "contact": {
+            "title": "Kontaktieren Sie uns",
+            "subtitle": "Haben Sie ein Malprojekt im Kopf? Sprechen wir darüber!",
+            "name": "Vollständiger Name",
+            "email": "Email",
+            "phone": "Telefon",
+            "message": "Ihre Nachricht",
+            "send": "Nachricht senden",
+            "address": "Adresse",
+            "hours": "Öffnungszeiten",
+            "map": "Standort"
+        }
+    }
+}
